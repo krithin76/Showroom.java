@@ -17,7 +17,7 @@ public class Showroom {
         c1.displayDetails();
 
         Car.showShowroomName();
-        Car.showTotalCars();
+        Car.showTotalCars(); 
     }
 
 }
